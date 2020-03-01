@@ -18,3 +18,5 @@ spring:
     type: com.zaxxer.hikari.HikariDataSource
   jpa:
     show-sql: true
+server:
+  port: 8888

@@ -1,4 +1,4 @@
-package com.how2java.springboot.entity;
+package com.how2java.springboot.webentity;
 
 import java.io.Serializable;
 

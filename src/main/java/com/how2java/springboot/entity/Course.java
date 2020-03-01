@@ -1,8 +1,10 @@
 package com.how2java.springboot.entity;
 
+import com.how2java.springboot.webentity.Teacher;
+
 import java.io.Serializable;
 
-public class FindProject implements Serializable {
+public class Course implements Serializable {
     private String kno;
     private String kname;
     private Teacher teacher;
